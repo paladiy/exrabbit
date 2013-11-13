@@ -4,7 +4,7 @@ defmodule Exrabbit.Mixfile do
   def project do
     [ app: :exrabbit,
       version: "0.0.1",
-      elixir: "~> 0.10.2-dev",
+      elixir: "~> 0.11.1",
       deps: deps ]
   end
 
